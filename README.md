@@ -1,2 +1,12 @@
-# Convolutional-Neural-Network
-A beginner-friendly deep learning project using Convolutional Neural Networks (CNN) to classify images of dogs and cats.
+# 🐶🐱 Dogs vs Cats Image Classifier
+
+A simple Convolutional Neural Network (CNN) built with TensorFlow/Keras to classify images of dogs and cats. This is a beginner deep learning project focused on learning the fundamentals of image classification using CNNs.
+
+## 🔍 Overview
+
+This project demonstrates how to:
+- Preprocess and augment image datasets
+- Build a CNN using Keras (TensorFlow backend)
+- Train and evaluate a classification model
+- Visualize accuracy and loss
+- Make predictions on new/unseen images
