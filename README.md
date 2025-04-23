@@ -8,5 +8,4 @@ This project demonstrates how to:
 - Preprocess and augment image datasets
 - Build a CNN using Keras (TensorFlow backend)
 - Train and evaluate a classification model
-- Visualize accuracy and loss
 - Make predictions on new/unseen images
